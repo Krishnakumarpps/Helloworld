@@ -1,0 +1,15 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 7E2D-28FE
+
+ Directory of C:\Users\hcl\Desktop\ProjectHelloworld
+
+10/30/2018  11:40 PM    <DIR>          .
+10/30/2018  11:40 PM    <DIR>          ..
+10/30/2018  11:34 PM               520 addfile.txt
+10/30/2018  11:38 PM               573 addfile1.txt
+10/30/2018  11:40 PM                 0 addfile2.txt
+10/30/2018  11:40 PM               415 Hello.class
+10/30/2018  10:36 PM               111 Hello.java
+10/30/2018  11:27 PM               468 testfile.txt
+               6 File(s)          2,087 bytes
+               2 Dir(s)  13,261,168,640 bytes free
